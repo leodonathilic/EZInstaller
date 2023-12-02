@@ -7,7 +7,7 @@ It's super easy to use, just start it either as a python script, or as executabl
 #### Download the python script by downloading the repo!
 
 
-#### Download the executable [here]([https://github.com/leodonathilic/EZInstaller/releases/download/untagged-7e8f2a13455eefccf6ed/EZInstall.exe)
+#### Download the executable [here](https://github.com/leodonathilic/EZInstaller/releases/download/untagged-7e8f2a13455eefccf6ed/EZInstall.exe)
 
 ## Usage
 The usage is quite simple, the script will install the requirements using pip, and the required files too!
