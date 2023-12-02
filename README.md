@@ -1,0 +1,2 @@
+# EZInstaller
+Simplified BepInEx installation
