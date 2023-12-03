@@ -4,7 +4,7 @@ Simplified BepInEx installation
 EZInstaller is a small script project I came up with when my I had to guide my friend while he was setting up BepInEx for one of his game, I understood quite quickly that I wouldn't be able to help out everyone so I made an automated installation!
 It's super easy to use, just start it either as a python script, or as executable!
 
-[⚠️ Executable Warning](https://github.com/leodonathilic/EZInstaller#executable-warning)
+[⚠️ Executable Warning](https://github.com/leodonathilic/EZInstaller#%EF%B8%8F-executable-warning)
 
 #### Download the Python script by downloading the repo!
 
