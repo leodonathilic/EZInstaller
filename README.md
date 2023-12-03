@@ -23,6 +23,9 @@ The usage is quite simple, the script will install the requirements using pip, a
 Just right click on it!
 
 
-# Executable Warning
+# ⚠️ Executable Warning
 
-Windows Defend might consider the Executable as a potentially malicious file, you can either ignore it and run it, or if you don't trust the .exe (which I understand) you have the Python version available too!
+Windows Defender (and other antiviruses) might consider the Executable as a potentially malicious file.
+I can assure you it is a false positive. You'll find [here](https://www.virustotal.com/gui/file/5e385a6ee7e60498d336248182b3e327361cacc4d0ee27a1dcf40e2e4ebefa52/detection) the VirusTotal analysis of the file.
+You can either ignore your antivirus and run it, or if you don't trust the .exe (which I understand) you have the Python version available too!
+I am currently working on a way to make the executable safe for antiviruses.
